@@ -12,21 +12,20 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to train an AI 
 
 # 📋 Requirements
 
-NEAT Python module
-pip install neat-python
-Pygame
-pip install pygame
+• NEAT Python module
+• pip install neat-python
+• Pygame
+• pip install pygame
 
 # 🏃‍♂️ How to Use
 
-Clone the repo:
+• Clone the repo:
 
-git clone https://github.com/yourusername/flappy-bird-ai.git
-cd flappy-bird-ai
+• git clone https://github.com/yourusername/flappy-bird-ai.git cd flappy-bird-ai
 
-Run the script:
+• Run the script:
 
-python flappy_bird.py
+• python flappy_bird.py
 
 🎮 Watch the AI train and play the game!
 
