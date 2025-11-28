@@ -12,8 +12,10 @@ This project uses NEAT (NeuroEvolution of Augmenting Topologies) to train an AI 
 
 # Flappy Bird AI Demo
 
-[![Demo](./Flappy%20Bird%20AI%20Demo/preview.gif)](./Flappy%20Bird%20AI%20Demo/python_6CAPNf3gYY.mp4)
-
+<video width="480" controls poster="./Flappy%20Bird%20AI%20Demo/preview.gif">
+  <source src="./Flappy%20Bird%20AI%20Demo/python_6CAPNf3gYY.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Requirements
 
